@@ -2134,7 +2134,14 @@ h1.logo.me-auto {
 }
 #header .logo img {
     max-width: 136px;
-}}
+}
+.abouttab {
+    padding-top: 0px !important;
+}
+#hero {
+    margin-bottom: 0px !important;
+}
+}
 
 .bosslogo {
     color: black !important;
