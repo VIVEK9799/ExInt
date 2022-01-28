@@ -2141,6 +2141,9 @@ h1.logo.me-auto {
 #hero {
     margin-bottom: 0px !important;
 }
+.tab-content {
+	margin-top: 0px !important;
+}
 }
 
 .bosslogo {
