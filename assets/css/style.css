@@ -2131,6 +2131,9 @@ h1.logo.me-auto {
 }
 .navbar-mobile a {
     font-size: 18px;
+}
+#header .logo img {
+    max-width: 136px;
 }}
 
 .bosslogo {
