@@ -458,7 +458,7 @@ section {
 }
 
 .section-bg {
-  padding: 120px 0;
+  padding: 60px 0;
   color: #d0d0d0;
 }
 
@@ -467,7 +467,7 @@ section {
   background: #000000fa;
   position: absolute;
   bottom: 60px;
-  top: 60px;
+  top: 0px;
   left: 0;
   right: 0;
   transform-none: skewY(-3deg);
@@ -2113,6 +2113,12 @@ section {
 	}
 	h1.logo.me-auto {
     width: 100px;
+	}
+	#header .logo img {
+    max-width: 136px !important;
+	}
+	.tdhide {
+	display: none;
 }
 }
 h1.logo.me-auto {
@@ -2132,17 +2138,11 @@ h1.logo.me-auto {
 .navbar-mobile a {
     font-size: 18px;
 }
-#header .logo img {
-    max-width: 136px;
-}
 .abouttab {
     padding-top: 0px !important;
 }
 #hero {
     margin-bottom: 0px !important;
-}
-.tdhide {
-	display: none;
 }
 }
 
